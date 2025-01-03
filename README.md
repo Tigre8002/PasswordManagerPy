@@ -1,5 +1,5 @@
 # Password Manager
-A simple calculator made using [Flet](https://flet.dev/ "Flet").
+A simple password manager made using [Flet](https://flet.dev/ "Flet").
 
 ## Features:
 
